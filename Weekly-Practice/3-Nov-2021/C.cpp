@@ -27,7 +27,7 @@ int main()
   int x;
   scanf("%d",&x);
   int a;
-  while(--x)
+  while(x--)
   {
     scanf("%d",&a);
     std::cout << std::fixed << std::setprecision(9) << 1.0/tan(90.0/x*rads) << "\n";
