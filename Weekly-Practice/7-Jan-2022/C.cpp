@@ -22,7 +22,7 @@ Out: 5 4 3 21
 
 using namespace std;
 
-int x[100001];
+int  x[100001];
 bool y[100001]; //flag array
 
 int main(){
